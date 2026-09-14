@@ -1,5 +1,7 @@
 # MSCS Admissions
 
+简体中文 | [English](README.en.md)
+
 面向北美计算机及相关硕士项目的申请指导 Skill，帮助你客观选校、核实项目信息，并梳理适合自己的申请表达。
 
 ## 选校定位
