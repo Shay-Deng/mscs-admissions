@@ -1,0 +1,18 @@
+{
+  "raw_rows": 1968,
+  "retained_rows": 1967,
+  "excluded_rows": 1,
+  "applicants": 256,
+  "applicant_seasons": 270,
+  "multi_result_portfolios": 207,
+  "results": {
+    "Admit": 958,
+    "默拒": 22,
+    "Reject": 940,
+    "Withdraw": 13,
+    "Waitlist": 26,
+    "null": 8
+  },
+  "gpa_missing": 4,
+  "note": "Research snapshot, not a representative admissions sample. No calibrated admission probabilities. Program tiers here are CS Grad value tiers."
+}

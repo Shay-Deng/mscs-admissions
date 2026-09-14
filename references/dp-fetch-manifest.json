@@ -1,0 +1,57 @@
+{
+  "retrieved_at": "2026-09-14T16:13:25.054699+00:00",
+  "total": 1968,
+  "pages": [
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=0",
+      "sha256": "d5ec7e4b261b3e5b24d149f13b90b4c5ce2e982c5eaa83a51b73c37f92ecc096",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=200",
+      "sha256": "731673c9267749d449d0c8efb0a3423993f72304170a0821bcfb8035321620cb",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=400",
+      "sha256": "267d73f252f666800ad5183d1357ec6c6c02ce1de24fc51f82264cca2d2fa5cd",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=600",
+      "sha256": "db9c651a74a857e0d6c6119acf6d897b9ed0ce4ce5ab3e7f19d1a953b52e1d5e",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=800",
+      "sha256": "eb3ccbd308a88291866b1f8cd603f2d2e76683ee22884cc3e4dd6fc4aac0e062",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=1000",
+      "sha256": "79eabdf770eccd36750c71ae80b73ca5f16b306d8147c12cabbbb4405d0c2df7",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=1200",
+      "sha256": "d2e1c6b52b6fcd7f5dffe8f6a01219f2d9fba59b52f91a700f2ca92a2324cec6",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=1400",
+      "sha256": "21cafaff1200f76b232756251fec5a2b98c0baae0267e938357080d708333680",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=1600",
+      "sha256": "62ad7a7b31fbe0835dae9377b5f512ca0e415123cb68eacf55ffaddc256bf49e",
+      "rows": 200
+    },
+    {
+      "url": "https://csgrad-positioning.capsfly7.workers.dev/api/dp?limit=200&offset=1800",
+      "sha256": "2a2cc011b881cdbfc2154bd3cbba95c035c1f06fa1418ae913f9e053fecf1985",
+      "rows": 168
+    }
+  ],
+  "scope": "public endpoint; no authentication; raw data local only"
+}

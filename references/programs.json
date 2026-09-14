@@ -1,0 +1,2061 @@
+[
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SSS",
+    "program": "MSECS@Princeton",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSECS@Princeton.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SSS",
+    "program": "MSCS@Stanford",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Stanford.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SSS",
+    "program": "CSE@MIT",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/CSE@MIT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MLT@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MLT@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MSCS@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MSML@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSML@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MSR@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSR@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MCIS@UPenn",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCIS@UPenn.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MSE in Robotics@UPenn",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSE in Robotics@UPenn.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "MSCS@UT-Austin",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UT-Austin.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "Two-Year MSCS@Yale",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/Two-Year MSCS@Yale.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "CSE@Harvard",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/CSE@Harvard.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "DS@Harvard",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/DS@Harvard.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "SS",
+    "program": "ICME@Stanford",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ICME@Stanford.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MCDS@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCDS@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MIIS@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MIIS@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MSAII@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSAII@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MSCV@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCV@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MSCS@UCLA",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UCLA.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MSCS@UIUC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UIUC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "CS Meng@Cornell",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS Meng@Cornell.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MSCS@Wisc",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Wisc.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MSCSE@UMich",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCSE@UMich.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "EE@Stanford",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/EE@Stanford.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "MS&E@Stanford",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MS&E@Stanford.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "S",
+    "program": "DS@UPenn",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/DS@UPenn.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "One-Year MSCS@Yale",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/One-Year MSCS@Yale.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "EECS Meng@Berkeley",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/EECS Meng@Berkeley.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "CS Meng@Cornell Tech",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS Meng@Cornell Tech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MSIN@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSIN@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MSCS@Duke",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Duke.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MSCS@GaTech",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@GaTech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MSCS@NWU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@NWU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MCS@UIUC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@UIUC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MSCS@UBC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UBC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MMath@Waterloo",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MMath@Waterloo.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MPhil-CSE@HKUST",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MPhil-CSE@HKUST.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "MSCS@UMD",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UMD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "ECE Meng(coop)@Waterloo",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE Meng(coop)@Waterloo.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A+",
+    "program": "ECE@UT Austin",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE@UT Austin.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "SESV@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/SESV@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "CS75@UCSD",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS75@UCSD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "CM@Cornell Tech",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CM@Cornell Tech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "MDSAI@Waterloo",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MDSAI@Waterloo.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "MScAc@UofT",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MScAc@UofT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "ECE@CMU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "ECE Meng@UBC",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE Meng@UBC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "MITS@CMU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MITS@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "DS@NYU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/DS@NYU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A",
+    "program": "DS@UMich",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/DS@UMich.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MSECS@JHU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSECS@JHU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "ScM CS@Brown",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/ScM CS@Brown.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MSCS@Columbia",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Columbia.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MSCS@Dartmouth",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Dartmouth.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MSCS@UCSB",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UCSB.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MCS@Rice",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@Rice.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MPCS@UChicago",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MPCS@UChicago.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MCS@UCI",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@UCI.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "CSE@GaTech",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CSE@GaTech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "EC79@UCSD",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/EC79@UCSD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MSMITE@CMU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSMITE@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "DS@Columbia",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/DS@Columbia.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "CSDA@Dartmouth",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/CSDA@Dartmouth.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "ECE@Duke",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE@Duke.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "ECE@GaTech",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE@GaTech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "CGGT@UPenn",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/CGGT@UPenn.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "A-",
+    "program": "MEng@UCLA",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MEng@UCLA.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSE-SS@CMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSE-SS@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSCS@NYU Courant",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@NYU Courant.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSCS@NYU Tandon",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@NYU Tandon.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MCS@TAMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@TAMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSCS@TAMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@TAMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSWE@UCI",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSWE@UCI.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "CS28@USC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS28@USC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSCS@uAlberta",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@uAlberta.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MSCS@uCalgary",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@uCalgary.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "DS75@UCSD",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/DS75@UCSD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MISM@CMU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MISM@CMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "ECE MEng@Cornell",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE MEng@Cornell.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "ECE Meng@UIUC",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE Meng@UIUC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "MPS-IS@Cornell",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MPS-IS@Cornell.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "EC82@UCSD",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/EC82@UCSD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "EC93@UCSD",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/EC93@UCSD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "Visual Computing@SFU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/Visual Computing@SFU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "Cybersecurity@SFU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/Cybersecurity@SFU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B+",
+    "program": "Big Data@SFU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/Big Data@SFU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "CS General@NEU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS General@NEU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MSCSE@UCSC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCSE@UCSC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MSCS&SE@UWB",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS&SE@UWB.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "NetSys@UCI",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/NetSys@UCI.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MCS@uOttawa",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@uOttawa.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MSCS@Western",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Western.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "CE MEng@TAMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CE MEng@TAMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MCS@UVa",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@UVa.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MSCS@UVa",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UVa.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MSCS@Virginia Tech",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Virginia Tech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "CAS MEng@McMaster",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CAS MEng@McMaster.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "ECE Meng@UofT",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE Meng@UofT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "ECE Meng@Waterloo",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE Meng@Waterloo.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MEng Soft@uCalgary",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MEng Soft@uCalgary.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MSIM@UIUC",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSIM@UIUC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B",
+    "program": "MI@UofT",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MI@UofT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCSE@OSU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCSE@OSU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCSE@PSU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCSE@PSU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@UCD",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UCD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@SBU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@SBU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@UF",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UF.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@UMass",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UMass.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@UMN",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UMN.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@Rutgers",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Rutgers.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCS@WUSTL",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@WUSTL.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MCS@NCSU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@NCSU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "EE-PMP@UW",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/EE-PMP@UW.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSCSS@UWT",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCSS@UWT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MACS@Dalhousie",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MACS@Dalhousie.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "ECE@Duke-Kunshan",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE@Duke-Kunshan.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "ECE@GaTech-Shenzhen",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE@GaTech-Shenzhen.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "ECE MEng@uOttawa",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE MEng@uOttawa.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "ECE MEng@Western",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE MEng@Western.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "ECE MEng@uAlberta",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ECE MEng@uAlberta.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "CE@NYU Tandon",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/CE@NYU Tandon.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "B-",
+    "program": "MSIS@NYU Courant",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSIS@NYU Courant.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "MSCS@BU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@BU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "MSCS@Emory",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Emory.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "MSCS@Tufts",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Tufts.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "MSCS@UTD",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@UTD.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "MSCS@Vanderbilt",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Vanderbilt.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "CS Meng@VT",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS Meng@VT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "IS@NEU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/IS@NEU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C+",
+    "program": "SES@NEU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/SES@NEU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C",
+    "program": "MSCS@BC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@BC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C",
+    "program": "MSCS@GWU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@GWU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C",
+    "program": "MSCS@SIT",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@SIT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "C",
+    "program": "IS@Pitt",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/IS@Pitt.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "PCP@Wisc",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/PCP@Wisc.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "CS-PMP@Wisc",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS-PMP@Wisc.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "MSCS@SMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@SMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "MCS@Utah",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCS@Utah.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "MSCS@SCU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@SCU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "MSCS@Syracuse",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Syracuse.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "MSECE@UIUC",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSECE@UIUC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "Cybersecurity@GaTech",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/Cybersecurity@GaTech.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "待分类",
+    "program": "MSSI@JHU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSSI@JHU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "陆本黑洞",
+    "program": "MSCS@Berkeley",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Berkeley.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "陆本黑洞",
+    "program": "MSCS@Cornell",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Cornell.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "陆本黑洞",
+    "program": "MSCS@Purdue",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Purdue.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "陆本黑洞",
+    "program": "MSc@UofT",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSc@UofT.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSCS@Brandeis",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Brandeis.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "CS Align@NEU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS Align@NEU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSCS@SCU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@SCU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSCS@Syracuse",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Syracuse.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MPCS@UChicago",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MPCS@UChicago.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MCIT@UPenn",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MCIT@UPenn.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "CS37@USC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/CS37@USC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSWE@UCI",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSWE@UCI.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "PCP@Wisc",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/PCP@Wisc.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSCS@SMU",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@SMU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSCS@Utah",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/MSCS@Utah.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "BCS@UBC",
+    "group": "CS",
+    "document_id": "references/corpus/opencs/docs/BCS@UBC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSIM@UIUC",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSIM@UIUC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "ISB@NEU",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/ISB@NEU.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSIS@UNC",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSIS@UNC.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSIS@NYU Courant",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSIS@NYU Courant.md"
+  },
+  {
+    "source": "opencs",
+    "axis": "admission_bar",
+    "tier": "转码",
+    "program": "MSIS@UT Austin",
+    "group": "NONCS",
+    "document_id": "references/corpus/opencs/docs/MSIS@UT Austin.md"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "sss-mit-cse",
+    "school": "MIT",
+    "program": "CSE",
+    "tier": "SSS",
+    "slug": "/SSS/MIT CSE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "sss-mit-eecs",
+    "school": "MIT",
+    "program": "EECS",
+    "tier": "SSS",
+    "slug": "/SSS/MIT EECS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "sss-princeton-university-mscs",
+    "school": "Princeton University",
+    "program": "MSCS",
+    "tier": "SSS",
+    "slug": "/SSS/Princeton MSECS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "sss-stanford-university-mscs",
+    "school": "Stanford University",
+    "program": "MSCS",
+    "tier": "SSS",
+    "slug": "/SSS/stanford mscs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-harvard-university-cse",
+    "school": "Harvard University",
+    "program": "CSE",
+    "tier": "SS",
+    "slug": "/SS/Harvard CSE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-harvard-university-ds",
+    "school": "Harvard University",
+    "program": "DS",
+    "tier": "SS",
+    "slug": "/SS/Harvard DS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-harvard-university-hds",
+    "school": "Harvard University",
+    "program": "HDS",
+    "tier": "SS",
+    "slug": "/SS/Harvard HDS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-stanford-university-stats-ds",
+    "school": "Stanford University",
+    "program": "STATS DS",
+    "tier": "SS",
+    "slug": "/SS/Stanford Stat DS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-stanford-university-symbolic-system",
+    "school": "Stanford University",
+    "program": "Symbolic System",
+    "tier": "SS",
+    "slug": "/SS/Stanford Symbolic System"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-yale-university-mscs-2-year",
+    "school": "Yale University",
+    "program": "MSCS 2 year",
+    "tier": "SS",
+    "slug": "/SS/Yale MSCS 2year"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-caltech-msee",
+    "school": "Caltech",
+    "program": "MSEE",
+    "tier": "SS",
+    "slug": "/SS/caltech msee"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-carnegie-mellon-university-mscs",
+    "school": "Carnegie Mellon University",
+    "program": "MSCS",
+    "tier": "SS",
+    "slug": "/SS/cmu mscs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-stanford-university-icme",
+    "school": "Stanford University",
+    "program": "ICME",
+    "tier": "SS",
+    "slug": "/SS/stanford icme"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-stanford-university-msee",
+    "school": "Stanford University",
+    "program": "MSEE",
+    "tier": "SS",
+    "slug": "/SS/stanford msee"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "ss-uiuc-mscs",
+    "school": "UIUC",
+    "program": "MSCS",
+    "tier": "SS",
+    "slug": "/SS/uiuc mscs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-miis",
+    "school": "Carnegie Mellon University",
+    "program": "MIIS",
+    "tier": "S",
+    "slug": "/S/CMU MIIS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-msaii",
+    "school": "Carnegie Mellon University",
+    "program": "MSAII",
+    "tier": "S",
+    "slug": "/S/CMU MSAII"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-mscv",
+    "school": "Carnegie Mellon University",
+    "program": "MSCV",
+    "tier": "S",
+    "slug": "/S/CMU MSCV"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-msml",
+    "school": "Carnegie Mellon University",
+    "program": "MSML",
+    "tier": "S",
+    "slug": "/S/CMU MSML"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-msr",
+    "school": "Carnegie Mellon University",
+    "program": "MSR",
+    "tier": "S",
+    "slug": "/S/CMU MSR"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-cornell-university-cs-meng",
+    "school": "Cornell University",
+    "program": "CS MENG",
+    "tier": "S",
+    "slug": "/S/Cornell CS MENG"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-uc-berkeley-eecs-meng",
+    "school": "UC Berkeley",
+    "program": "EECS MEng",
+    "tier": "S",
+    "slug": "/S/UCB EECS meng"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-ut-austin-mscs",
+    "school": "UT Austin",
+    "program": "MSCS",
+    "tier": "S",
+    "slug": "/S/UT MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-mcds",
+    "school": "Carnegie Mellon University",
+    "program": "MCDS",
+    "tier": "S",
+    "slug": "/S/cmu mcds"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-carnegie-mellon-university-msin",
+    "school": "Carnegie Mellon University",
+    "program": "MSIN",
+    "tier": "S",
+    "slug": "/S/cmu msin"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "s-georgia-tech-mscs",
+    "school": "Georgia Tech",
+    "program": "MSCS",
+    "tier": "S",
+    "slug": "/S/gatech mscs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-duke-university-mscs",
+    "school": "Duke University",
+    "program": "MSCS",
+    "tier": "A+",
+    "slug": "/A+/Duke mscs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-georgia-tech-cse",
+    "school": "Georgia Tech",
+    "program": "CSE",
+    "tier": "A+",
+    "slug": "/A+/Gatech CSE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-ucla-mscs",
+    "school": "UCLA",
+    "program": "MSCS",
+    "tier": "A+",
+    "slug": "/A+/UCLA MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-upenn-cis",
+    "school": "UPenn",
+    "program": "CIS",
+    "tier": "A+",
+    "slug": "/A+/Upenn CIS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-upenn-ds",
+    "school": "UPenn",
+    "program": "DS",
+    "tier": "A+",
+    "slug": "/A+/Upenn DS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-upenn-msr",
+    "school": "UPenn",
+    "program": "MSR",
+    "tier": "A+",
+    "slug": "/A+/Upenn MSR"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-uw-madison-cs-pmp",
+    "school": "UW-Madison",
+    "program": "CS PMP",
+    "tier": "A+",
+    "slug": "/A+/Wisc CS PMP"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-ucsd-cs75",
+    "school": "UCSD",
+    "program": "CS75",
+    "tier": "A+",
+    "slug": "/A+/ucsd cs75"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aplus-ut-austin-ece-ses",
+    "school": "UT Austin",
+    "program": "ECE(ses)",
+    "tier": "A+",
+    "slug": "/A+/ut ece"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-carnegie-mellon-university-ece",
+    "school": "Carnegie Mellon University",
+    "program": "ECE",
+    "tier": "A",
+    "slug": "/A/CMU ECE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-carnegie-mellon-university-msmite",
+    "school": "Carnegie Mellon University",
+    "program": "MSMITE",
+    "tier": "A",
+    "slug": "/A/CMU MSMITE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-university-of-maryland-mscs",
+    "school": "University of Maryland",
+    "program": "MSCS",
+    "tier": "A",
+    "slug": "/A/UMD MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-university-of-michigan-mscs-mscse",
+    "school": "University of Michigan",
+    "program": "MSCS/MSCSE",
+    "tier": "A",
+    "slug": "/A/Umich MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-upenn-mcit",
+    "school": "UPenn",
+    "program": "MCIT",
+    "tier": "A",
+    "slug": "/A/Upenn MCIT"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-yale-university-mscs-1-year",
+    "school": "Yale University",
+    "program": "MSCS 1 year",
+    "tier": "A",
+    "slug": "/A/Yale MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-carnegie-mellon-university-mits",
+    "school": "Carnegie Mellon University",
+    "program": "MITS",
+    "tier": "A",
+    "slug": "/A/cmu mits"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-columbia-university-mscs",
+    "school": "Columbia University",
+    "program": "MSCS",
+    "tier": "A",
+    "slug": "/A/columbia mscs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-uiuc-mcs",
+    "school": "UIUC",
+    "program": "MCS",
+    "tier": "A",
+    "slug": "/A/uiuc mcs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "a-university-of-washington-ee-pmp",
+    "school": "University of Washington",
+    "program": "EE PMP",
+    "tier": "A",
+    "slug": "/A/uw ee pmp"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-carnegie-mellon-university-mse-ss",
+    "school": "Carnegie Mellon University",
+    "program": "MSE-SS",
+    "tier": "A-",
+    "slug": "/A-/CMU MSESS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-columbia-university-ds",
+    "school": "Columbia University",
+    "program": "DS",
+    "tier": "A-",
+    "slug": "/A-/Columbia DS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-columbia-university-msce",
+    "school": "Columbia University",
+    "program": "MSCE",
+    "tier": "A-",
+    "slug": "/A-/Columbia ce"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-georgia-tech-ece",
+    "school": "Georgia Tech",
+    "program": "ECE",
+    "tier": "A-",
+    "slug": "/A-/Gatech ECE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-nyu-ds",
+    "school": "NYU",
+    "program": "DS",
+    "tier": "A-",
+    "slug": "/A-/NYU DS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-ucsb-mscs",
+    "school": "UCSB",
+    "program": "MSCS",
+    "tier": "A-",
+    "slug": "/A-/UCSB MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-ucsd-ec79",
+    "school": "UCSD",
+    "program": "EC79",
+    "tier": "A-",
+    "slug": "/A-/Ucsd EC79"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-brown-university-scmcs",
+    "school": "Brown University",
+    "program": "SCMCS",
+    "tier": "A-",
+    "slug": "/A-/brown scmcs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-carnegie-mellon-university-se-sv",
+    "school": "Carnegie Mellon University",
+    "program": "SE-SV",
+    "tier": "A-",
+    "slug": "/A-/cmu sesv"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-duke-university-ece",
+    "school": "Duke University",
+    "program": "ECE",
+    "tier": "A-",
+    "slug": "/A-/duke ece"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-johns-hopkins-university-msecs",
+    "school": "Johns Hopkins University",
+    "program": "MSECS",
+    "tier": "A-",
+    "slug": "/A-/jhu msecs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "aminus-university-of-chicago-mpcs",
+    "school": "University of Chicago",
+    "program": "MPCS",
+    "tier": "A-",
+    "slug": "/A-/uchicago mpcs"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-columbia-university-msee",
+    "school": "Columbia University",
+    "program": "MSEE",
+    "tier": "B+",
+    "slug": "/B+/Columbia ee"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-cornell-university-mps-is",
+    "school": "Cornell University",
+    "program": "MPS-IS",
+    "tier": "B+",
+    "slug": "/B+/Cornell MPS-IS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-northwestern-university-mscs",
+    "school": "Northwestern University",
+    "program": "MSCS",
+    "tier": "B+",
+    "slug": "/B+/NWU MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-nyu-tandon-mscs",
+    "school": "NYU",
+    "program": "Tandon MSCS",
+    "tier": "B+",
+    "slug": "/B+/NYU Tandon"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-rice-university-mcs",
+    "school": "Rice University",
+    "program": "MCS",
+    "tier": "B+",
+    "slug": "/B+/Rics MCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-ucla-meng",
+    "school": "UCLA",
+    "program": "MEng",
+    "tier": "B+",
+    "slug": "/B+/UCLA MENG"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-university-of-washington-tacoma-mscs",
+    "school": "University of Washington Tacoma",
+    "program": "MSCS",
+    "tier": "B+",
+    "slug": "/B+/UWT MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-upenn-ee",
+    "school": "UPenn",
+    "program": "EE",
+    "tier": "B+",
+    "slug": "/B+/Upenn EE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-carnegie-mellon-university-mism",
+    "school": "Carnegie Mellon University",
+    "program": "MISM",
+    "tier": "B+",
+    "slug": "/B+/cmu mism"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-cornell-tech-cm",
+    "school": "Cornell Tech",
+    "program": "CM",
+    "tier": "B+",
+    "slug": "/B+/cornell tech CM"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-texas-a-m-cse",
+    "school": "Texas A&M",
+    "program": "CSE",
+    "tier": "B+",
+    "slug": "/B+/tamu cse"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bplus-uc-irvine-mswe",
+    "school": "UC Irvine",
+    "program": "MSWE",
+    "tier": "B+",
+    "slug": "/B+/uci mswe"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-emory-university-mscs",
+    "school": "Emory University",
+    "program": "MSCS",
+    "tier": "B",
+    "slug": "/B/Emory MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-nc-state-mcs",
+    "school": "NC State",
+    "program": "MCS",
+    "tier": "B",
+    "slug": "/B/NCSU MCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-northeastern-university-cs-align",
+    "school": "Northeastern University",
+    "program": "CS Align",
+    "tier": "B",
+    "slug": "/B/NEU CS ALIGN"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-northeastern-university-mscs",
+    "school": "Northeastern University",
+    "program": "MSCS",
+    "tier": "B",
+    "slug": "/B/NEU MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-uc-irvine-mcs",
+    "school": "UC Irvine",
+    "program": "MCS",
+    "tier": "B",
+    "slug": "/B/UCI MCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-uiuc-ece-meng",
+    "school": "UIUC",
+    "program": "ECE MENG",
+    "tier": "B",
+    "slug": "/B/UIUC ECE MENG"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-umass-amherst-mscs",
+    "school": "UMass Amherst",
+    "program": "MSCS",
+    "tier": "B",
+    "slug": "/B/UMass MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-usc-cs28",
+    "school": "USC",
+    "program": "CS28",
+    "tier": "B",
+    "slug": "/B/USC CS37"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "b-utah-state-university-mscs",
+    "school": "Utah State University",
+    "program": "MSCS",
+    "tier": "B",
+    "slug": "/B/utah state university MSCS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bminus-northeastern-university-is",
+    "school": "Northeastern University",
+    "program": "IS",
+    "tier": "B-",
+    "slug": "/B-/NEU IS"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bminus-northeastern-university-ses",
+    "school": "Northeastern University",
+    "program": "SES",
+    "tier": "B-",
+    "slug": "/B-/NEU SES"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bminus-uiuc-msim",
+    "school": "UIUC",
+    "program": "MSIM",
+    "tier": "B-",
+    "slug": "/B-/UIUC MSIM"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "bminus-santa-clara-university-mscse",
+    "school": "Santa Clara University",
+    "program": "MSCSE",
+    "tier": "B-",
+    "slug": "/B-/SCU MSCSE"
+  },
+  {
+    "source": "csgrad",
+    "axis": "program_value",
+    "id": "cplus-university-of-minnesota-mscs",
+    "school": "University of Minnesota",
+    "program": "MSCS",
+    "tier": "C+",
+    "slug": "/C+/UMN MSCS"
+  }
+]

@@ -1,0 +1,1988 @@
+{
+  "sources": [
+    {
+      "name": "opencs",
+      "repository": "https://github.com/opencsapp/opencsapp.github.io",
+      "website": "https://opencs.app/",
+      "commit": "d3e4bc3e260a1a4039bb73812c95a9826573fc16",
+      "retrieved_at": "2026-09-14T16:13:49.683932+00:00",
+      "documents": 177,
+      "tier_axis": "admission_bar",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "name": "csgrad",
+      "repository": "https://github.com/csms-apply/csgrad",
+      "website": "https://csgrad.com/",
+      "commit": "ee221011d057805a9fd4bf330e7b3cb463ff5719",
+      "retrieved_at": "2026-09-14T16:13:49.739819+00:00",
+      "documents": 101,
+      "tier_axis": "program_value",
+      "license": "CC BY-NC-SA 4.0"
+    }
+  ],
+  "documents": [
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/2023fall CS PhD 美国申请总结 by Flash.md",
+      "sha256": "5e743bb33451297ca14819c33b1b2d7f2064f9401b822e6e27d530066039d8b6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/2023fall CS PhD 美国申请总结 by Flash.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/2025fall游戏开发美硕申请总结 by skx.md",
+      "sha256": "163eee78371af074659697dcdcc5fb1b862310d5b5b0fe0e41929bc30d2c4d87",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/2025fall游戏开发美硕申请总结 by skx.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/22fall申请季总结 by Flash.md",
+      "sha256": "ef92c46ace9c9e4171c08af836bb2eb3f5f9f3780e8557fdea8d2b2f60ed3204",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/22fall申请季总结 by Flash.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/BCS@UBC.md",
+      "sha256": "feacacce74301565da9cc116600dd23141fb25a4897b617f8b3779439e94dded",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/BCS@UBC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/Big Data@SFU.md",
+      "sha256": "d9e1776031adeaff6c82ea891d1522a09f5abd5b96932b8f6d56a1b634899386",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/Big Data@SFU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CAS MEng@McMaster.md",
+      "sha256": "04253a8ee65848bcf1aed747b8e1dd522a6c6b46d6e87fa4ed442d01cc1bb369",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CAS MEng@McMaster.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CE MEng@TAMU.md",
+      "sha256": "cb822772d3048f94086bb618cc94817fdf67a5b2cf25967e1e2207a69066024f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CE MEng@TAMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CE@NYU Tandon.md",
+      "sha256": "1c8ec57bf97d82da6201b946a37720ea8c476e44e35a115a6a9523f7ecc63e57",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CE@NYU Tandon.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CGGT@UPenn.md",
+      "sha256": "7015b00484be0f33e61bdf67217a9cbe03e395c3d8dfa55b32a1f5fa52662400",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CGGT@UPenn.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CM@Cornell Tech.md",
+      "sha256": "0f3b08099e92669737aeacc1fa125ae505f78cf38b11935bb21581b1d7be0f20",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CM@Cornell Tech.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS Align@NEU.md",
+      "sha256": "1160113ead11f35662bd4aeceabfd4a58c08440dbf2ecdab665d167413bbf42b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS Align@NEU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS General@NEU.md",
+      "sha256": "2a53bb5bcda97a36222c8d503361d4c940d734189fc323cbbe2f3b3c80507611",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS General@NEU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS Meng@Cornell Tech.md",
+      "sha256": "86bfcb4fee0337295d93fe6e4bc387a1f2b0bd4fcdd5362c14658cef3437ea5d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS Meng@Cornell Tech.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS Meng@Cornell.md",
+      "sha256": "d1b3a4ddc4aa3b4a2f40db4c4cf54e4e885fd1cb5d3d5ae6f88a9be1ce844066",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS Meng@Cornell.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS Meng@VT.md",
+      "sha256": "c0a36760534c2918b9418b99812b283c05d2d1303eb7415f9d6b15060673987a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS Meng@VT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS PhD&Master F1签证.md",
+      "sha256": "5b6b5bb8cbdb848df7048b58d1915529a39e0615c493b27a81f48e2ad3c62fd6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS PhD&Master F1签证.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS-PMP@Wisc.md",
+      "sha256": "4d507ee62bec218ee6f0f4bbe7cbf964f4a310dd68a4ced72525dccaf31be54b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS-PMP@Wisc.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS28@USC.md",
+      "sha256": "5a4f3d7eb69b450e0795f1d554e032398bebb2b68f59a004034ec04f4235ff14",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS28@USC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS37@USC.md",
+      "sha256": "0306b4b06177ab39c3730f5f982df6ec915bef9bd4fe3b7be905c4df10fb2079",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS37@USC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CS75@UCSD.md",
+      "sha256": "76a104da4a7ba1379689d29f109a33edaa29c0b12afe536b86ea253fe018c258",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CS75@UCSD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CSDA@Dartmouth.md",
+      "sha256": "faa9f7d9b04522e8948a719484786ac0f444f8c992200d3dc6943de49d4c0dc8",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CSDA@Dartmouth.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CSE@GaTech.md",
+      "sha256": "bfd6c049318bf1f519e5d59d1149c1675a3be840c8171f8afb8874f618e9882a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CSE@GaTech.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CSE@Harvard.md",
+      "sha256": "a82aceb6d2725e0ff5b8bfd9fcffcd2e6477bf4c84c13558e0294766efd20489",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CSE@Harvard.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/CSE@MIT.md",
+      "sha256": "b5cd748729b5e23be2a6d3fcb70cd255e18a64303988dec6ba454ca680d5b0a8",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/CSE@MIT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/Cybersecurity@SFU.md",
+      "sha256": "e27184a3f9e99f8750d750c2c10c0f46f0829f4b0f21c3c8d0a382d3b4450a5c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/Cybersecurity@SFU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/DS75@UCSD.md",
+      "sha256": "310f157e1b65b2429d8a4f25e465948fd41998fcbbf0a592bf77e517524ffd53",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/DS75@UCSD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/DS@Columbia.md",
+      "sha256": "ad6b29995e168a652bd9c78917242819291d5dae54cac73df7a0c312146ff428",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/DS@Columbia.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/DS@Harvard.md",
+      "sha256": "ac2a6e9cfcedb6750506d5bd053d1afefd6c77e04aa0da29d5e48867dca5b330",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/DS@Harvard.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/DS@NYU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/DS@NYU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/DS@UMich.md",
+      "sha256": "777a5078040eb4ed98bb8fe73453f2ad9d3340842e7f4a85993f33262bf78a1d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/DS@UMich.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/DS@UPenn.md",
+      "sha256": "358a9ed4f8fe59c12b268edd1bd525e07990961703cc2e634dee96e2dbcaf824",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/DS@UPenn.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/EC79@UCSD.md",
+      "sha256": "77d9f27850e348b3f11535bb964084e491e1e624ee2410d62694a636f5a8b1cb",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/EC79@UCSD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/EC82@UCSD.md",
+      "sha256": "fcbf6ecd35c09fa11c6d155035abf47f1e913c2b0b529a38b20266bc40f3de52",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/EC82@UCSD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/EC93@UCSD.md",
+      "sha256": "54f075ee1de83fd65718307e585472c8fa37be03f49f48a52eb7e3d7a2128313",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/EC93@UCSD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE MEng@Cornell.md",
+      "sha256": "b8db8789151c2b25af71988477014c23f6feaa1920455074c0ac083dfb807fde",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE MEng@Cornell.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE MEng@Western.md",
+      "sha256": "15f15e04d9b76b8102389f9b873d9d82a701a075065100e959cc544996be912e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE MEng@Western.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE MEng@uAlberta.md",
+      "sha256": "09cdf7c6c619a7b77f3e7920ee4d3046c9f2a6b677eb4908f4afd394e34fcf61",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE MEng@uAlberta.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE MEng@uOttawa.md",
+      "sha256": "9b1fdf94c795dd063eb1a827f7ecd999f0b79c119d1eebc930d26fddddf6dbce",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE MEng@uOttawa.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE Meng(coop)@Waterloo.md",
+      "sha256": "2aa3e2a0ea2af6c2b32dc4381e264e6ed24b45662ac6c4a08dd8a445639a9ad8",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE Meng(coop)@Waterloo.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE Meng@UBC.md",
+      "sha256": "c332093e3b4231c4b3d3a28eae82764d0ace1d3724758e71fa5da291c12afcf2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE Meng@UBC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE Meng@UIUC.md",
+      "sha256": "3cc4285e9c001aac219fa26a20e269b95f5d7ca4f9de68ce19f783174289361d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE Meng@UIUC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE Meng@UofT.md",
+      "sha256": "c470d36dfca7b1a871c16268445f2a1d99b9e7b3c1a48bf22535259ece95faad",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE Meng@UofT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE Meng@Waterloo.md",
+      "sha256": "7a5adfd10ef652e9860a147821bfbba56d7b0d400bfd1deab716b8d63f7d9969",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE Meng@Waterloo.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE@CMU.md",
+      "sha256": "069c69b8db35d27cd4d19856c2e2f577df3318054c1450fbbb4632bb0415b36b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE@Duke-Kunshan.md",
+      "sha256": "44c2fe7aa7b9e770ff87ff009dc1088d7f725d0ae8c262fa7f1c14d33f6d0ea6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE@Duke-Kunshan.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE@Duke.md",
+      "sha256": "dc63252b446fad85d395df1e5d34ca6552c36092df188c8575b4a50b63e4e148",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE@Duke.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE@GaTech-Shenzhen.md",
+      "sha256": "6ad759104cedc518e1860a8e9fbce724948523dbbc06edc7e675ab784031b4a0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE@GaTech-Shenzhen.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE@GaTech.md",
+      "sha256": "1b4c26226ebe3c515858b6bc745b6ecc22180c292020b5131aae59e3d5d73494",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE@GaTech.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ECE@UT Austin.md",
+      "sha256": "1f2670ca2cd00007bed21521a4a57637294310bc0c15a2e78059d03e17279917",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ECE@UT Austin.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/EE-PMP@UW.md",
+      "sha256": "b4d7908181c3556b3cc0f503cce72a995378ed6530d6f226e74f1ba66cafc83d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/EE-PMP@UW.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/EE@Stanford.md",
+      "sha256": "fee7711f6db36317b8412de727191ca1cbb0386c0b4b9181c72c220e2a8fa6d6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/EE@Stanford.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/EECS Meng@Berkeley.md",
+      "sha256": "9bdb1ca21ef908b0b359830f779dfc58fc6105ecbaa3c821d8d82a1dedd8bdd2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/EECS Meng@Berkeley.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ICME@Stanford.md",
+      "sha256": "b99fcdfc28e51b938bbf520adb0b8e479d56d54630f3972d36c4452bed2fe813",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ICME@Stanford.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/IS@NEU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/IS@NEU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/IS@Pitt.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/IS@Pitt.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ISB@NEU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ISB@NEU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MACS@Dalhousie.md",
+      "sha256": "5513f5fd8eadbcba547f3dfd8ca3b051718db7400b12689a5c4cc3eb93980e8e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MACS@Dalhousie.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCDS@CMU.md",
+      "sha256": "6aad485232360423e08635b3bcc848609c016589427199e0fa79d9cdab0493f6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCDS@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCIS@UPenn.md",
+      "sha256": "bccf882b3748d9384db919cf1774d0e8efa8fd91ae44b3475e4fcdf9f193b3fe",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCIS@UPenn.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCIT@UPenn.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCIT@UPenn.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@NCSU.md",
+      "sha256": "ef42a481641d5890e0435d509c97c4d88ad40141a2e8aee36f7124e086458988",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@NCSU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@Rice.md",
+      "sha256": "278bdc38a761e8832b5d5df70a2da535aa7274ed615a87e3b807d4dfa42c8330",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@Rice.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@TAMU.md",
+      "sha256": "9ae9e3ffbef45e21b799402b819ab99334fb55cbd0bcf534a7a4d0975c1bdd9f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@TAMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@UCI.md",
+      "sha256": "b655fca2a2bc8f84729ec4e3e68559557499f0eb1c03f57637b170fd06e2f373",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@UCI.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@UIUC.md",
+      "sha256": "88dc19faaad49f2a7b7d21f967985931985e1c7bb52da18cd4976b99eaf8552e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@UIUC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@UVa.md",
+      "sha256": "56ed965380c65f836d13ea25a2636c7b55e4f4697baa023aa803bf8381cf2f89",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@UVa.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MCS@uOttawa.md",
+      "sha256": "3c9f9b48ec0b974a036ac11b9b48e0179f6e870e9f9eaaf23e17327f967df776",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MCS@uOttawa.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MDSAI@Waterloo.md",
+      "sha256": "6ccb51850b25d2f3280e291384c632d09423e48aaad97b72ec275823de25f764",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MDSAI@Waterloo.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MEng Soft@uCalgary.md",
+      "sha256": "647e7cf26be94a2c4e5f0f929593b662810bdc47ad2b855f06391f8514fdb63d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MEng Soft@uCalgary.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MEng@UCLA.md",
+      "sha256": "78281e4d8b171abb9f3d4da02f73976d2cca975d44421e643f5ffa3e85505f12",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MEng@UCLA.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MI@UofT.md",
+      "sha256": "f872eee0a2abf78490548c0c3148fdedb0f8915da7bb746ba04cd90c722558db",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MI@UofT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MIIS@CMU.md",
+      "sha256": "657504fb709d38707e0236ca97441ccca8f8276030c411f75f62624a92e7305c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MIIS@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MISM@CMU.md",
+      "sha256": "acdd0edb034db83e4b61214597227a9494b7d46bc18f34ac9a4c75436a7ae023",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MISM@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MITS@CMU.md",
+      "sha256": "dad9a4b56ed050124f9f0064c78634e96cac2bf86bc83f515796834770866c28",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MITS@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MLT@CMU.md",
+      "sha256": "e01216d8b630f75725b194d2c8bef406cd6a10e060ca86689e329116210f8017",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MLT@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MMath@Waterloo.md",
+      "sha256": "5e74e11de7e52e1bc27452b770842b7128562060606321f7289e848553834673",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MMath@Waterloo.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MPCS@UChicago.md",
+      "sha256": "1ccde33996b965c618899cb5968e9a0d588a64ecbca3dd5c27829a653a938b4f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MPCS@UChicago.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MPS-IS@Cornell.md",
+      "sha256": "6dc2dda52517d4fdd7b88b843b2ca91bf1fceb3d8b83ccf8fa468d3715380b0e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MPS-IS@Cornell.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MPhil-CSE@HKUST.md",
+      "sha256": "8beb31f1914cb948f2f814910cd52579aeb9a575305064ab731b605b6f39a0d1",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MPhil-CSE@HKUST.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MS&E@Stanford.md",
+      "sha256": "a96fd92752e5861d842d8a3ea64f29f4aab2e9da9f8bbee2a128a18853c7cbd5",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MS&E@Stanford.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSAII@CMU.md",
+      "sha256": "d4663a4392ff4405f170804609b4318a96f41bb6f0920842af3e2609bc418266",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSAII@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS&SE@UWB.md",
+      "sha256": "c6a650ea7d8cc30686ac904ec50fe583ed1637272388ba2f5c6a4cb9be11105c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS&SE@UWB.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@BC.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@BC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@BU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@BU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Berkeley.md",
+      "sha256": "63879e5f101c91c4eecc2c426e1669d941c29207400cd20b5d8d4645fbf46e6c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Berkeley.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Brandeis.md",
+      "sha256": "6af31ad87763911c7e8f1689f96f1a13f135d7b5bf187b563e6145480c7b13a0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Brandeis.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@CMU.md",
+      "sha256": "87af943659bb42ffcee51ca0dd7f5218c677b4c6ffaf1e9f876f976afe87358d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Columbia.md",
+      "sha256": "16d680f703556686211652ea2d71e1d2807abecd2d5bfb000138ffc8ffb92f9c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Columbia.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Cornell.md",
+      "sha256": "176b5051f095187c6c29082de4e6bb55735be15d7b386c22df9ad6abf4b18adc",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Cornell.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Dartmouth.md",
+      "sha256": "44aefad91caa9ee6ea1e3342a8ae5df9019f74891aa11c9e5d5aaa9cf0de19b6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Dartmouth.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Duke.md",
+      "sha256": "69f836aa5fc9628b9ed858a8e151d002583fd965ba2a2425f554a88854888da7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Duke.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Emory.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Emory.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@GWU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@GWU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@GaTech.md",
+      "sha256": "37e3d9dbc442599c61b00e74bcef6c3532a98198ef19b6fb192b0bc835fbd65d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@GaTech.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@NWU.md",
+      "sha256": "93f0605642c42b593e742d81ef818dc27b36d3fbcc587d0373524cb36d6ff1b9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@NWU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@NYU Courant.md",
+      "sha256": "431fdbd6ed0b830cc663a0cd8ad27851f653f71dbc0ce12b52caf5d05d3802df",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@NYU Courant.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@NYU Tandon.md",
+      "sha256": "83827bfd59e6584941f200e0ba0b3b3016dcebfdaf5855ec16af9fa5475175f4",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@NYU Tandon.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Purdue.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Purdue.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Rutgers.md",
+      "sha256": "5ef2a84d20434d7d97685328e69692d8bcea5f2bbbf7950d471806e1b2dbf0d5",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Rutgers.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@SBU.md",
+      "sha256": "c1809192f4b8f2975e7e15774d3d2811f61a0485093048a06db0125280ec52f0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@SBU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@SCU.md",
+      "sha256": "8a41ca7b2877bd3270928ba55f9c394e1e09aa58ce77ce673345293fe9405e39",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@SCU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@SIT.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@SIT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@SMU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@SMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Stanford.md",
+      "sha256": "9c31fb0d2950f26ac1dc52cf77161786b4029cf882c4f4520e9dd0c1e0a83f80",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Stanford.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Syracuse.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Syracuse.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@TAMU.md",
+      "sha256": "3753fbde55cc97e1f343562bc73221559a4cb6ffe93bcf9df2b13f44628b7d2c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@TAMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Tufts.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Tufts.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UBC.md",
+      "sha256": "e9cac517bd94ad5db736fa8457a496605468331131ff9d6db73d4288aac26362",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UBC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UCD.md",
+      "sha256": "0378c6898c82d1ea12342327b1040270a2bfac0b818d4c819071b6ec2d979389",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UCD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UCLA.md",
+      "sha256": "42875fff8d170b7739757f0aac926227b3d677c936757d74330d179cc115c303",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UCLA.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UCSB.md",
+      "sha256": "ac6e0b1cb8fcf092746fa840fcb2d8ff281b5636e96c47665d6ce2563e6c152e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UCSB.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UF.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UF.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UIUC.md",
+      "sha256": "c7b13e9c9230731020f3c1da10c6977554df336400f633d34bb076bba628306f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UIUC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UMD.md",
+      "sha256": "584c69aa1069db3501db321bc61fd6a6dc1ae89f71275cb69d255296a9b99727",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UMD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UMN.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UMN.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UMass.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UMass.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UT-Austin.md",
+      "sha256": "d30249fe7f329e8b4213062139e8d4139ed6fcee3af3db5a48c2a2e3ecc20392",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UT-Austin.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UTD.md",
+      "sha256": "5594dc8427efcc132220c3425999049d5e42cdc86daef5abba661fa8dd3015f4",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UTD.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@UVa.md",
+      "sha256": "21270ed2d1a83e2002442ce4fcda2d1e031eae8c65847005684adb97920e95b7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@UVa.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Vanderbilt.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Vanderbilt.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Virginia Tech.md",
+      "sha256": "7ef5c9c5760546a208c3366ae4cdae1233836c331fd204f11590a0497076fdc7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Virginia Tech.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@WUSTL.md",
+      "sha256": "605495e936b040262672de0863b92927146baae3c6ef40900c634fbf3327c24b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@WUSTL.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Western.md",
+      "sha256": "3a820cfeb0c1c03127badb879b1843a1c8857f38274d2334c23e856a543840e4",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Western.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@Wisc.md",
+      "sha256": "96850bea1086e9f4080621bf3379283c04fc195b2a9cac69c1f8489c1aeb21a9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@Wisc.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@uAlberta.md",
+      "sha256": "4acdd60308bdcb3b3e9225bd5f6fe568cdf9ab0049999f392f4bb0824fcd71bb",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@uAlberta.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCS@uCalgary.md",
+      "sha256": "d4c8efa9576b0476b282d2b3421c315c49a1357625b8247a3fabb42238dc95b9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCS@uCalgary.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCSE@OSU.md",
+      "sha256": "f7818ebfbb11ac9a53461eefb23ea03ce7f1522d6b7fb9dc11d8f42e477bf1ae",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCSE@OSU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCSE@PSU.md",
+      "sha256": "2edf0b8e88743f64051290064d9fa0e4a4beed8f2786a6d92184477373707b54",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCSE@PSU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCSE@UCSC.md",
+      "sha256": "a6caa8064a5d0ce308ea2d9de528390aae00726ad615a1133053cd8e1970fa30",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCSE@UCSC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCSE@UMich.md",
+      "sha256": "fa3f104ed9b51fe312bfc19eee5cc8d047e6473550f0cecad0dac6a3cdbcafbf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCSE@UMich.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCSS@UWT.md",
+      "sha256": "329766dccde192d113ab7f4aa40ae0d5e6d0e2599cd5863b1671ef078e34e57e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCSS@UWT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSCV@CMU.md",
+      "sha256": "ecf370e5bced2850351fb06791f45a3542c07c9c0e11b0397fd56254f0377200",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSCV@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSD@Utah.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSD@Utah.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSE-SS@CMU.md",
+      "sha256": "fe6a774f166fe5d8db49ab00aaf3c7c8acad74abd4f3297bae83209e73eb9f15",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSE-SS@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSECE@UIUC.md",
+      "sha256": "ee6e188fd32f9ec6738d12242b4bc97ea153382ab809ccc84fab715e506c70ac",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSECE@UIUC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSECS@JHU.md",
+      "sha256": "2a7e648e9ceec7f49c6207e282bff0962aca2a69b2da4b96a0c664cf198919dc",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSECS@JHU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSECS@Princeton.md",
+      "sha256": "a3304e64249f50787220005434eb503f5a4694c203379d4e2643a85cf199bc05",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSECS@Princeton.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSIM@UIUC.md",
+      "sha256": "4c3223d32b339a83440fd553b882f76edb6f3f9e5e75712b1d9e79b94f445ce0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSIM@UIUC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSIN@CMU.md",
+      "sha256": "e52d615f7cf14636499e1d5a8cb23cd9c5502dfe24d49788c823ed10f99dbbd5",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSIN@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSIS@NYU Courant.md",
+      "sha256": "1c6d952d03cfd5c51ccf586daad14181f05ef69d1d7411e3395965ac0f9c4185",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSIS@NYU Courant.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSIS@UNC.md",
+      "sha256": "d6c12cff74ed36aec54cc451859bed35e18d9008680f4076483eda7746e70101",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSIS@UNC.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSMITE@CMU.md",
+      "sha256": "c943f2be92f6281a8ba8c598fd8ae1a32e3285a3c6691d3aa7ca6a8a506578a8",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSMITE@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSML@CMU.md",
+      "sha256": "bd96ee86b5208ac003bcd998139e0c14bd17bbad10305ed5c2d7450f314100e2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSML@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSR@CMU.md",
+      "sha256": "8a9c06a239774097303c0767ce7d0af302b5a55eea9b7c7a2e347cc9a5e16575",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSR@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSWE@UCI.md",
+      "sha256": "110dc78c2dbb0b0d213c8ca6e64dad2e700a9ba25971705c5ecd58ef9d093fba",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSWE@UCI.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MSc@UofT.md",
+      "sha256": "088262a3beb36dfda77b1c1aa15d7e8be31f9d95e805e0cc0925f2cf62f07011",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MSc@UofT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/MScAc@UofT.md",
+      "sha256": "301935ea608537b2a2f617d3ddb752b8e1813f7222c31ddc5f45074d5135d91a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/MScAc@UofT.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/NetSys@UCI.md",
+      "sha256": "0833123095bfea98c2d4830dd8552a68bc4788ce4e657bcc8c74980e1f18c75f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/NetSys@UCI.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/One-Year MSCS@Yale.md",
+      "sha256": "ce9a0aa50c4a7296e7b5ab81bb830cda0e0723adbcde11586030ba246ee3940c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/One-Year MSCS@Yale.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/PCP@Wisc.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/PCP@Wisc.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/SES@NEU.md",
+      "sha256": "79b78d704c7a7ab59d8f542d27a690dae7cfcc1c15717dda3e0645310155accf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/SES@NEU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/SESV@CMU.md",
+      "sha256": "1d001ac9d96c206c6f72054b673e4583563e432c7bfa60dd82492bbc90b9a6b2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/SESV@CMU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/ScM CS@Brown.md",
+      "sha256": "e3cfbf529a9f21829fa5ad78ec5a3d44e488190fd59aa333e611951793ea7728",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/ScM CS@Brown.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/Two-Year MSCS@Yale.md",
+      "sha256": "85cfb1e68f582c5bb5f792862ea0f10234f04c9756a7fd11dd883aff77e4dad7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/Two-Year MSCS@Yale.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/Visual Computing@SFU.md",
+      "sha256": "47483bfb1e82e2b7a9d66757b54a90669cf36808d0ee37453bbed459ce60ad97",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/Visual Computing@SFU.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/alumni.md",
+      "sha256": "af101810d2c5ff2d55ec52d6a076739ef8a56677e735e1d268eb2c4db4ae10c0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/alumni.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/blog.md",
+      "sha256": "9cf53f0e3ec08c8daa0530349749d089c4b5b4eed5a04c827c872b3ce5f3d593",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/blog.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/contribute.md",
+      "sha256": "82889de8af51e73c7ebc430c3804ef8657c260d26a48c76e03956a710c19309f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/contribute.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/contributor.md",
+      "sha256": "15133dde56a8e77f75ad9c4f09e2473bbf70250fcb0e3d52faacc93315aa8ebe",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/contributor.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/datapoints.md",
+      "sha256": "adee7dc40c90a2f4d3d4271670a7d420e339bdf78e54ea1a534332dedafa2f2d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/datapoints.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/faq.md",
+      "sha256": "ce9d6f645bba7d37300357c3ee925eb2384535fa0e28982809bc65defdc2d0a1",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/faq.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/grade.md",
+      "sha256": "45040a7ae9703c4c101799cde1de7d2f60daa2c3c2ef6bbd9e91894704e8ef73",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/grade.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/guide.md",
+      "sha256": "566a7f3918975ca9ec28b069b102e472f485eaa449cd0ff2d9e1c4930e7822d6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/guide.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/index.md",
+      "sha256": "0813ca07417d1c2eb8acee9a54410f5993b7c9ed90003f8327092489d4eee0a9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/index.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/link.md",
+      "sha256": "e7db6a600f8872ef70416b340d38fd1905e0aa22ed123a3f74566d6c09e1e49c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/link.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/newapplicant.md",
+      "sha256": "d746b8c924ccfa32f5f8c2a2056d20e1c23bd56ffa3e47a72a559ff2dcfef577",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/newapplicant.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/newdatapoints.md",
+      "sha256": "29a5e1ef0bf8229e2348e5ed2c2145b185f5da228343bb1e32939a4a566484ad",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/newdatapoints.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/newprogram.md",
+      "sha256": "8a34422b28f60028a515d9fdd0cba8d26102b1284009968e8ab3564a4e1fd54d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/newprogram.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/newprogress.md",
+      "sha256": "70cf709f201bc404ed00c0ada879ff48f57feca87df6b60a267c630558e25c7b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/newprogress.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/newvisa.md",
+      "sha256": "54e97e2e633575f161f4294a3109b30f39aefa613bc1750b3c6d1dc9f368282f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/newvisa.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/phdinfo.md",
+      "sha256": "1933160d40b0a257e78f1e805105d2089b6e09aec90ec5e50bc96f6857fbef26",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/phdinfo.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/program_info.md",
+      "sha256": "d4141373fb59dca2a6282ad0e80c90da5148114468b6c25d2cf56381cdffa0bf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/program_info.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/sponsor.md",
+      "sha256": "3f75e23e7324367b242a6eae1814736680c14f3b428ff65945227363d98669c9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/sponsor.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/submit.md",
+      "sha256": "541909eebf80c4bb4c741a40431f97c05a643cd4f027bfe626bcf999a3c2f947",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/submit.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/zen.md",
+      "sha256": "4fe2fe6854967aeb7280540acb11410f1208f2267b6e446ce75208c155e2b4cd",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/zen.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/加拿大study permit安调情况 by Flash.md",
+      "sha256": "ae8fd2ee323eb1f412d1b659da586e9039ae81fe6919d98912eb22cb3141d1e9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/加拿大study permit安调情况 by Flash.md"
+    },
+    {
+      "source": "opencs",
+      "source_url": "https://github.com/opencsapp/opencsapp.github.io/blob/d3e4bc3e260a1a4039bb73812c95a9826573fc16/docs/北美CS PhD申请回忆 by denghilbert.md",
+      "sha256": "e50056a868fbc92e71532dfc87e9f8b6c7f40f4bf5499d03e199fd02c5b31f5a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/opencs/docs/北美CS PhD申请回忆 by denghilbert.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/CMU ECE.md",
+      "sha256": "efcf8b323303c190c33732f1963865468c283b3aebddede811de3126f3a6ae78",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/CMU ECE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/CMU MSMITE.md",
+      "sha256": "29366384ce198d1921107d50f69290de27291c422e491e9b0adcd768a5f88eb9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/CMU MSMITE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/UMD MSCS.md",
+      "sha256": "975330a8c18a45321cf49549a5c1bf953e1f34f5a5db4f3f8ca3d39767a4d62c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/UMD MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/Umich MSCS.md",
+      "sha256": "8104ab92ec44b3c432cd2aff0b29ba06449493088f5fe85840b8563cf25f7a51",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/Umich MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/Upenn MCIT.md",
+      "sha256": "ff546725146a7c67e29db90ba3883e0958e110ab19025a81d3dfd6b2ec8b9f0f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/Upenn MCIT.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/Yale MSCS.md",
+      "sha256": "a5b2b64686b4b074e45adbd096be91826c528edf29aad819f8a370e46ad10122",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/Yale MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/cmu mits.md",
+      "sha256": "20a069ff8a1b6e4534360e7700ce1bd431310be3b452175392922c85ea433e28",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/cmu mits.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/columbia mscs.md",
+      "sha256": "bc84b83d28e609021df70e7a625a28d3cc1404b4ccb9cd1209d4f7a46d96cedb",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/columbia mscs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/uiuc mcs.md",
+      "sha256": "8cdfd68fb80020f1cd4a95f4b8a9e6f56d299cab251fab83981086f226e08f75",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/uiuc mcs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A/uw ee pmp.md",
+      "sha256": "b1e94aca52e3bc46a879a95299cf7f9406beab4be10fff31b33bf7eb4d11fc57",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A/uw ee pmp.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/Duke mscs.md",
+      "sha256": "df1b3ad641e67dd8fa0affd4555eea107809167bf9072eb8c72cadd8918041a7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/Duke mscs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/Gatech CSE.md",
+      "sha256": "1c5635be6de42fab26cc20ef8bac11860f867cb111ec125f5b844e7be7443481",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/Gatech CSE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/UCLA MENG.md",
+      "sha256": "4c932c4aa1577b7441e033def5287faeb76efb729449d8ec018e3859211a4197",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/UCLA MENG.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/UCLA MSCS.md",
+      "sha256": "78053c9439e31b034d3d11927ec2191d09a11f93b7df75b891b84ac50fc2fcc6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/UCLA MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/Upenn CIS.md",
+      "sha256": "2b8a3a5ad639bd198b07136c947331739e19d21541dfa459872cfa9c0b4e0e2b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/Upenn CIS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/Upenn DS.md",
+      "sha256": "09a5272025f047264030d05ce9aba83eb754276634355984714c9a9a73d8a7f9",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/Upenn DS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/Upenn MSR.md",
+      "sha256": "871d65e802a2c2df8573e78c3bb102a63548d37ddcdcf2d0048662fc82bf1c3d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/Upenn MSR.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/Wisc CS PMP.md",
+      "sha256": "18c855219a2427ea18459be1310e904ff876749d8e227cac561782b05acc7d73",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/Wisc CS PMP.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/ucsd cs75.md",
+      "sha256": "50cfb4efb124197e534f58a84d8bfc9fc6b78eb61ebe7599fba248a30670b718",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/ucsd cs75.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A+/ut ece.md",
+      "sha256": "1ba35277640921f478ee7073b9bee80460f4d5aabd9a9f0038c90a97ff8e42b2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A+/ut ece.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/CMU MSESS.md",
+      "sha256": "11118d7fb5ba4f9bbc8561bce37fbadc8a745c04ed476aea0e48b8e42cb7f07e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/CMU MSESS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/Columbia DS.md",
+      "sha256": "caedc9d5d36e1b1e54dbfd07cecd7455bfa22fcc87bdb0a61649a8bed6fcc6ec",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/Columbia DS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/Columbia ce.md",
+      "sha256": "b6740680c216aa5af37093b89820ef2ed266497924c495b4790d2726d3e590a0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/Columbia ce.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/Gatech ECE.md",
+      "sha256": "fb17efb446da8fd0968c22b38962db02d97e7513e696fe83a03b3de8adba8b24",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/Gatech ECE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/NYU DS.md",
+      "sha256": "ce934cfb1da5495257a63cd13f4146e2030d98adaf5095156898c374194846ca",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/NYU DS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/UCSB MSCS.md",
+      "sha256": "16256a784d7d7114693f6d44df1ed4b2b7a579f564f9706a0450be0365cb1a1a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/UCSB MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/Ucsd EC79.md",
+      "sha256": "b29f0a4198422850e152286c25a1530778ffa351bfe13cee84046c70b125d86c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/Ucsd EC79.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/brown scmcs.md",
+      "sha256": "e0dddfd1ca9b844c3def007b86cf4d0a1b32d065affee12d0060393f27118448",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/brown scmcs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/cmu sesv.md",
+      "sha256": "3d8ec524e3f883364ad66f4901ad2300855cd0d9299a47a1d6a35a9cb62d2aae",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/cmu sesv.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/duke ece.md",
+      "sha256": "6e022f3b2449cb071bbeade73744d688c64e6d957dd31a83ed8b4b1e133e918d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/duke ece.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/jhu msecs.md",
+      "sha256": "3b24a2d87a97950f9a52e7688f2bc8ef95982a3b06f623e3726f83f2109ca168",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/jhu msecs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/A-/uchicago mpcs.md",
+      "sha256": "a9f7174f681d07b3b043bf30da77a4847eac21c12bedff1a967bd56250501b77",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/A-/uchicago mpcs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/Emory MSCS.md",
+      "sha256": "a1753623ff749bff0c108b6a62b62d4cd9899d296f3fc4a29fd1babb93f7d6c4",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/Emory MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/NCSU MCS.md",
+      "sha256": "530479b919a6ff63d1e82cd3eb305eaa2065113a84b3b53fd581c5deece4307e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/NCSU MCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/NEU CS ALIGN.md",
+      "sha256": "31a7af9adfa9b90a10927319f6a9370039fc3f49c0258151eefed47523c27e72",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/NEU CS ALIGN.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/NEU MSCS.md",
+      "sha256": "3f238f6bd33e857c984f3e8bbf1138e20d4a5dc406913c2fcb1acc3c77c46cb6",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/NEU MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/UCI MCS.md",
+      "sha256": "98c9eb4474932d4cfebb0f1fb86bf62bb067bb79ab4295c9dd8a4166c8bb9d90",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/UCI MCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/UIUC ECE MENG.md",
+      "sha256": "d0890e01f8bbdfd679ecab5b7017f3e055801527937ebdc576feaef4045f570e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/UIUC ECE MENG.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/UMass MSCS.md",
+      "sha256": "b3f6fecf29e349616d3c1a1ce6cab56a61752e3da9a8231a34970f33a58e3d4c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/UMass MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/USC CS37.md",
+      "sha256": "04191a310eef373ac14544d5fed999d88a6468859b67210615cd5a399355ed63",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/USC CS37.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B/utah state university MSCS.md",
+      "sha256": "25f03b3d85467909c5ed261ee427f19be2bc9f02e1a239d32807cc838a4cecf7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B/utah state university MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/Columbia ee.md",
+      "sha256": "9f25a6e2dcfe4df7af297736acdb023d8c997227cc99322bd2f0cf74870c5e8a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/Columbia ee.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/Cornell MPS-IS.md",
+      "sha256": "2a93e26de32af6ffb4948c222572c220cce42e2c9add0f54e4e6ab893307a3ff",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/Cornell MPS-IS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/NWU MSCS.md",
+      "sha256": "81749cb0ca84a055dbf6c7b45e8c499b255da547f6b64f38166a3026ee1ee063",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/NWU MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/NYU Tandon.md",
+      "sha256": "400bab8f61f1d3a3723c4df9edbed395c0b412ff5e5aa6d84226265d48cee297",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/NYU Tandon.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/Rics MCS.md",
+      "sha256": "f9a1e6b6c9b4f0521b7c4d84ec32c1dca7c75032a6d4871374206eda66d7363c",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/Rics MCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/UWT MSCS.md",
+      "sha256": "42e737693047522c661c5816c789778a0eb3f318619bfa4fb91f5aaa2ec2983d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/UWT MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/Upenn EE.md",
+      "sha256": "8a4359dd4617bf92c4d41c4484b2e19d34469d8a32675df9fe722c681885b9c5",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/Upenn EE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/cmu mism.md",
+      "sha256": "bb8c644515503eb1b09094b276a67e073cc43b2c987cbbd727d25e276c89b6bf",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/cmu mism.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/cornell tech CM.md",
+      "sha256": "7c9cafcb7b8c71108f2c248d105b8be93ad87c82ac1db14d10a088cb0ac3d3a4",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/cornell tech CM.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/tamu cse.md",
+      "sha256": "8d1f8fe84aad3a952ea11d945f78ac060b2e02c7636a2fb4b9dbea3c9e874738",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/tamu cse.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B+/uci mswe.md",
+      "sha256": "59cfd537f8dbc5ae0b893d1c10ff45abf82f0937903c4e31351d879f48585811",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B+/uci mswe.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B-/NEU IS.md",
+      "sha256": "ac9ee121bb61d6c93bc58633f0a65fead5ae1a83539935f9d4848ac340f6586f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B-/NEU IS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B-/NEU SES.md",
+      "sha256": "e305dd27f15bbbc3d4dd98f71ec8076fa358f99cad56dabfdc063ec6b158002f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B-/NEU SES.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B-/SCU MSCSE.md",
+      "sha256": "c4821b4a825b061df9aecbbfa2097dc21cce8dde4e387f95cfb7e72fbaf15937",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B-/SCU MSCSE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/B-/UIUC MSIM.md",
+      "sha256": "e4c481001684ae9fbb8ae8eb9cfb7e98e55dd47b5468e600e0a09de1745d240a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/B-/UIUC MSIM.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/C+/UMN MSCS.md",
+      "sha256": "7fbfc879a0078b34e50cc1379f2a676f9d5dce11693ed080746a1cd0a24478b8",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/C+/UMN MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/CMU MIIS.md",
+      "sha256": "b684f28ab73a28e8fc68e129c091711d1ad5166383bc615281b9da47adaab95a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/CMU MIIS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/CMU MSAII.md",
+      "sha256": "78a0a875af201653e0fbdaa0f63777e019f307b1d4090ff1ecbe2db6de303499",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/CMU MSAII.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/CMU MSCV.md",
+      "sha256": "93dc88c68ae50d48c2eb7d18bfeb9c39fdf04085a8c1f573f44876eb67c8ef06",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/CMU MSCV.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/CMU MSML.md",
+      "sha256": "835f6f1ef14385026161cf713aa42f5d7f10b3a3c3e0f43f5d6a4532546de4f0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/CMU MSML.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/CMU MSR.md",
+      "sha256": "ebb67380e40ced3f97a477cb5dd2f56782037a9821f526d866806ba59542fe20",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/CMU MSR.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/Cornell CS MENG.md",
+      "sha256": "7955b16ce16550d0398ad419d63a43b898efa6b386eb20ae4513260544049cd0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/Cornell CS MENG.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/UCB EECS meng.md",
+      "sha256": "29d09538bed3cb1ea61db339e8382b30af1d7c7dc3062d6b4ca7e21ae9212cb7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/UCB EECS meng.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/UT MSCS.md",
+      "sha256": "6894d48abce2ffcbe302c3bb3818d6b4de5c85d9a3890c7a6bdb87058cce705b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/UT MSCS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/cmu mcds.md",
+      "sha256": "880c38e46387ad751573971b1948696f57ff7c5e2491bf0b213a3d8562e32974",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/cmu mcds.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/cmu msin.md",
+      "sha256": "b4cc28d8fd02adc2fe1ce34076ba2dee7f99f9c027a61798d977e2e57ec34aae",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/cmu msin.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/S/gatech mscs.md",
+      "sha256": "7f8d940621166e87226bd1e4f7bf16f6f94f6d8287adcb323ab4607104d8db4a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/S/gatech mscs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/Harvard CSE.md",
+      "sha256": "97d695e5ac73eaef33a02b5874ee36b1dde327cd2f822a8620d5a4aaa373c75a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/Harvard CSE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/Harvard DS.md",
+      "sha256": "2345791bdd536a1c547b428da1380ca77aa6fe39e099c699c2b9165884f9cec2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/Harvard DS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/Harvard HDS.md",
+      "sha256": "34acb9e82d521f6c9de3f7e4207f456d04c4bf9216076cb5ae0f7337e134d033",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/Harvard HDS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/Stanford Stat DS.md",
+      "sha256": "a7c43eba0035a21e9e595091a0a6668ae377309ea00169b3039c005bc7b14b41",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/Stanford Stat DS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/Stanford Symbolic System.md",
+      "sha256": "ad7ad586c5ef28405e531ea81d4ad7fcc4f03e41ffeb6a385a22515e55da1cdb",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/Stanford Symbolic System.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/Yale MSCS 2year.md",
+      "sha256": "a10d894556e86a7d9455bb5f9bcc5aeda53fe067841171fb7f95e58de20e4d68",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/Yale MSCS 2year.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/caltech msee.md",
+      "sha256": "12d57d84f890184b916773b8b282815cf88f72067ec4575112bdcbd9e484cd4f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/caltech msee.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/cmu mscs.md",
+      "sha256": "2197e0d162e0d19460010d9e338316734f2b81473530e6542dad0a279563a96e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/cmu mscs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/stanford icme.md",
+      "sha256": "fcd7e90f76fc855f7a5eb55e2fe0f143815b137b97474a47bfda6e263e9485d2",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/stanford icme.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/stanford msee.md",
+      "sha256": "e43bc647735dbde0164703561cf2b0407591677b9ebdd0593b0aa58d3334e3eb",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/stanford msee.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SS/uiuc mscs.md",
+      "sha256": "d098746a89cd517b9d547c3f013575ebb2699ff7e27fdd02c091ca3e5db26403",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SS/uiuc mscs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SSS/MIT CSE.md",
+      "sha256": "fdfcf389c4e0d237d0028ddcdccaa1500d1891019e9a32400d9f44f51bdc3fe5",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SSS/MIT CSE.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SSS/MIT EECS.md",
+      "sha256": "107c9c62cf078e17be4cb69ab0683fd8d6cf629e063ed81e5970b46abed91728",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SSS/MIT EECS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SSS/Princeton MSECS.md",
+      "sha256": "3e2bd72c8f963851aeb0103dedb07ce047e05e11184ea7d2159c16f0c4f16e65",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SSS/Princeton MSECS.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/SSS/stanford mscs.md",
+      "sha256": "ddd36140f4c1bdabffba7855998cde90ab99832ea2e6819cf71335c0fc4bc02a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/SSS/stanford mscs.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/addpr.md",
+      "sha256": "c6b88dd492754abb797a980f02183ed6dfada615e9de6619097b6a8a1bda7c05",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/addpr.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/datapoints submit.mdx",
+      "sha256": "739079b79ec19f6ed62960759e4bbfb1f2b70ef0842e5a18fdc448514f2b51a4",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/datapoints submit.mdx"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/intro.mdx",
+      "sha256": "f359107d4fb367aa9b68bb1899f50396b299a00ffb5a0e6e2123af2f46f7629d",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/intro.mdx"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/tutorial-basics/yale mscs 1 year.md",
+      "sha256": "d748d07101d05900721991146e40ce9b1a15cf1173c935c747df67f7d3c181a7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/tutorial-basics/yale mscs 1 year.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/2026 Summer 找工时间线.md",
+      "sha256": "24bf18f27d0eac8d9dba48d6e5f6fd6f21f860277e55ee8a7e0071466762aabc",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/2026 Summer 找工时间线.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/FAANG过简历关.md",
+      "sha256": "b30cc8f2b1a46834371cd125b4bdf1761a33be772f2ffd8c03e8c592d598921a",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/FAANG过简历关.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/SWE 找工友好型项目.md",
+      "sha256": "517a0421bf20e2e8816c743d2829b3342883bb01306016dc8e9af5213d707c97",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/SWE 找工友好型项目.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/Spring 入学如何拿CPT.md",
+      "sha256": "30e55e7be8a39a4d0fb95dd200c989cddf88ba0f50440a1106d51820a6b0fee0",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/Spring 入学如何拿CPT.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/online mscs项目.md",
+      "sha256": "48a43530673ccedea1f7108c806cfc35b0cb1bbdce1e8183daa7f6364214a9b7",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/online mscs项目.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/中美SDE实习面试侧重点对比.md",
+      "sha256": "c4c27d4f4c58f94f1309f0d9a3c7f1095b7d2c93d1d46f906f03ab20d9ad121f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/中美SDE实习面试侧重点对比.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/找不到暑期实习的替代选项.md",
+      "sha256": "8006964000ae2c7339655b6368fc4d725730a0d053beb92f907b917749a9a9de",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/找不到暑期实习的替代选项.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/有coop的cs项目.md",
+      "sha256": "d32b7356cfc049dba86dd372805fda9e4e8fa028198f0815d617d1505ae5d48b",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/有coop的cs项目.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/美国cs硕士怎么选offer.md",
+      "sha256": "2c84159d946a97ec2451d303158fcca06d03fd074d3445796010f883a3107b2e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/美国cs硕士怎么选offer.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/转码如何补能带成绩单的专业课.md",
+      "sha256": "c0311264ed35ec69d5cf51e700d3656f09af7c735b58409d25e0946ac327c046",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/转码如何补能带成绩单的专业课.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/useful_docs/转码需要补的专业课.md",
+      "sha256": "b19b1bddab0ae59475bf94fb14b5fdc7f2163828265a82df221f1da5eef0889f",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/useful_docs/转码需要补的专业课.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/找我辅导.md",
+      "sha256": "565299069081a1764944088a0fd622e79c20bcfe4e3c4aea5cc17955ca27fa50",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/找我辅导.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/转码项目.md",
+      "sha256": "ee86a8034416a4da7ddff4878a513648616ed0c93a0ba7b0558527f041eb0b4e",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/转码项目.md"
+    },
+    {
+      "source": "csgrad",
+      "source_url": "https://github.com/csms-apply/csgrad/blob/ee221011d057805a9fd4bf330e7b3cb463ff5719/docs/过往DP.mdx",
+      "sha256": "8c39585626cc8896982a8441a8b773241e1c6d95de54c07c3a627862843e4408",
+      "storage": "references/corpus.json",
+      "document_id": "references/corpus/csgrad/docs/过往DP.mdx"
+    },
+    {
+      "source": "usc-official-summary",
+      "file": "references/usc-official.md",
+      "source_url": "https://www.cs.usc.edu/academic-programs/masters/computer-science-general/",
+      "sha256": "d96ec83bbe867af8151d7efcf1677164fa3e247dd6d2b70de6855af6d1ecce02",
+      "retrieved_at": "2026-09-14",
+      "type": "authored summary; individual claims cite specific official URLs in document"
+    },
+    {
+      "source": "official-fit-summary",
+      "file": "references/program-fit-examples.md",
+      "source_url": "https://infosci.cornell.edu/master-professional-studies-information-science/apply",
+      "sha256": "a70e2ab9a6420e69bb0041d5da9a7d5a5a48cef246d6862c9df6a09a67a1f013",
+      "retrieved_at": "2026-09-14",
+      "type": "authored summary; each program claim cites its official URL"
+    }
+  ]
+}
