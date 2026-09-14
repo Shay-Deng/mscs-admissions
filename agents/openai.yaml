@@ -1,0 +1,4 @@
+interface:
+  display_name: "北美 MSCS 客观选校"
+  short_description: "以 GPA 和可追溯案例校准选校，区分录取门槛与项目价值"
+  default_prompt: "使用 $mscs-admissions，基于我的原始 GPA、本科背景与目标申请季给出有证据的选校定位。"
